@@ -3,8 +3,8 @@ from fastapi.middleware.cors import CORSMiddleware
 from routers import pets
 
 app = FastAPI(
-    title="PetCollector API",
-    description="Collect and identify pets using AI",
+    title="PetDex API",
+    description="Catch and identify pets using AI",
     version="1.0.0"
 )
 
