@@ -1,0 +1,15 @@
+# environment
+venv/
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# vs code
+.vscode/
+
+# mac
+.DS_Store
